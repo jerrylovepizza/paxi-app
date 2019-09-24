@@ -1,0 +1,14 @@
+#Results {
+    position: relative;
+    background-size: cover;
+    background-attachment: fixed;
+    /* background-image: url("./2.jpg"); */
+    clear: both;
+    min-height: 300px;
+    /* height: 1000px; */
+    margin: 1% 0 0;
+    padding: 1% 7% 5%;
+    text-align: left;
+    border-radius: 4px;
+}
+

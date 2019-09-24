@@ -1,0 +1,159 @@
+.bg-yellow, .bg-green {
+  background-color: #fedf19;
+  position: fixed;
+  width: 100%;
+  top:0;
+  bottom: 0;
+}
+.bg-green {
+  background-color: #92d0bb;
+  position: fixed;
+  width: 100%;
+  top:0;
+  bottom: 0;
+}
+.bg-gray {
+  background-color: #ebedee;
+  position: fixed;
+  width: 100%;
+  top:0;
+  bottom: 0;
+}
+
+
+.truck {
+  width: 60%;
+  height: auto;
+}
+.truck2 {
+  margin-top: 30px;
+  width: 30%;
+  height: auto;
+}
+.truck3 {
+  margin-top: -60px;
+  margin-bottom: -20px;
+  width: 30%;
+  height: auto;
+}
+
+.proContainer{
+  margin: 70px 0;
+}
+
+.ship-pg{
+  background-image: url("./shipping.jpg");
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+.packList{
+  position: relative;
+  margin-top: 60px;
+}
+
+.img{
+  position: relative;
+  float: left;
+  max-height: 200px;
+  width: auto;
+}
+.h2 {
+  position: fixed;
+  background: white;
+  width:41%;
+  top:55px;
+  left: 0;
+  padding: 10px;
+  padding-bottom: 1px;
+  font-size: 200%;
+  text-align: center;
+  z-index:2
+}
+.h3 {
+  text-align: center
+}
+
+.status, .status2, .status3{
+  position: absolute;
+  float: right;
+  color: black;
+  right:20px;
+  top:10px
+}
+
+.status2 {
+  top:30px
+}
+
+.status3 {
+  top:50px
+}
+
+.pg404 {
+  padding: 10%
+}
+
+.user-header {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fadeBtn {
+  position: absolute;
+  float: right;
+  color: white;
+  right:10px;
+  bottom:10px
+}
+
+.mapContainer {
+  position: fixed;
+  width:50%;
+  height: auto;
+  border: 1px;
+}
+@media(max-width:768px){
+  .mapContainer {
+    position: relative;
+    width:100%;
+    height: auto;
+  }
+  .h2 {
+    width:100%;
+  }
+}
+
+.googleMap {
+  /* position: relative; */
+  width:80%;
+  height: 50%;
+  margin: 0 10%;
+  border-radius: 10px;
+  background: rgba(190, 190, 190, 0.5)
+}
+
+.subtitle {
+  font-size: 12px;
+  }
+
+
+  /* //////////////////////////////////// */
+
+  
+.msg-btn {
+  position: absolute;
+  float: right;
+  color: white;
+  right: 100px;
+  top: 10px
+}
+
+.pick-btn {
+  position: absolute;
+  float: right;
+  color: white;
+  right: 15px;
+  top: 10px
+}

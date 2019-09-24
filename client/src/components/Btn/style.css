@@ -1,0 +1,23 @@
+.map-btn {
+  position: absolute;
+  float: right;
+  color: rgb(255, 255, 255);
+  right: 20px;
+  top: 20px
+}
+
+.msg-btn {
+  position: absolute;
+  float: right;
+  color: white;
+  right: 100px;
+  top: 10px
+}
+
+.pick-btn {
+  position: absolute;
+  float: right;
+  color: white;
+  right: 15px;
+  top: 10px
+}
