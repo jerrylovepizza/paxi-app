@@ -63,7 +63,7 @@ User can reply or delete messages all the time.
 
 #### 📬 Author
 
-[Isaac Wu](https://github.com/squall2046)
+[Jerry Dai](https://github.com/jerrylovepizza)
 
 ## Copyright
 © 2019 All Rights Reserved
