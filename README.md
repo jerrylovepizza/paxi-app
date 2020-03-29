@@ -1,4 +1,4 @@
-# 📦 PAXI
+# 📦 PAXI-app
 
 #### PAXI is a new mode package delivery app. Anytime, Anywhere, and Any price are three main differences from the traditional express business such as UPS or DHL
 
